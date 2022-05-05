@@ -1,0 +1,9 @@
+brushing and linking
+SPLOM
+flow map
+visual encoding
+Protovis
+scalable vector graphics
+seriation
+community-detection
+Voronoi and jigsaw treemaps
